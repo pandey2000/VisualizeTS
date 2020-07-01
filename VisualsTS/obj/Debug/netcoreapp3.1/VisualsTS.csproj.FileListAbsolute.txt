@@ -1,0 +1,15 @@
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.csprojAssemblyReference.cache
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.AssemblyInfoInputs.cache
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.AssemblyInfo.cs
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.csproj.CoreCompileInputs.cache
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.exe
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.deps.json
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.runtimeconfig.json
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.runtimeconfig.dev.json
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.dll
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\bin\Debug\netcoreapp3.1\VisualsTS.pdb
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.dll
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.pdb
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.genruntimeconfig.cache
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.AnimationTS.resources
+C:\Users\t-ampand\source\repos\VisualsTS\VisualsTS\obj\Debug\netcoreapp3.1\VisualsTS.csproj.GenerateResource.cache
